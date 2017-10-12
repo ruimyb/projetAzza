@@ -1,0 +1,1 @@
+#ifndef PMM_KAB_DB#define PMM_KAB_DB#include <iostream>#include <sstream>#include <string>#include <vector>#include <map>using namespace std;const char RS = 100;const char US = 100;const char LF = 100;#endif
